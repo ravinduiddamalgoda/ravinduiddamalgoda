@@ -25,7 +25,7 @@ Here are some of the technologies I work with:
 ## Let's Connect
 
 - 📫 You can reach me via email at [ravinduiddamalgoda55@gmail.com](mailto:ravinduiddamalgoda55@gmail.com).
-- 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/ravinduiddamalgoda/).
+- 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/ravindu-iddamalgoda-babab71ba).
 - 😄 Pronouns: He/Him
 
 Thanks for visiting my GitHub profile! Feel free to explore my repositories and get in touch. Let's create something amazing together! 💡
